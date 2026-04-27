@@ -1,1 +1,53 @@
 /* место для вашего кода */
+.header {
+
+}
+
+.header__menu {
+
+}
+
+.header__menu-points {
+
+}
+
+.header__menu-points-active {
+
+}
+
+.header__logo-active {
+
+}
+
+.header__address {
+
+}
+
+.header__address-number {
+
+}
+
+.header__address-email {
+
+}
+
+.header__address-adress {
+
+}
+
+.cover {
+  background-image: url(/images/cover.jpg);
+  margin-bottom:180px;
+}
+
+.cover__title {
+
+}
+
+.lots {
+  margin-bottom:120px;
+}
+
+.about {
+  margin-bottom:180px;
+}
